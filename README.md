@@ -1,4 +1,13 @@
-# Exemplo: Java e JPA: Realizando pesquisas utilizando JPQL e Criteria
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://www.linkedin.com/in/renatoredes/">
+    <img src="https://github.com/renatoredes/exemplo-jpa-pesquisa-com-jpql-criteria/blob/main/img/jpa.jpg" alt="Logo">
+  </a>
+
+  <h3 align="center">Renato Ferreira - Engenheiro de Software </h3>
+</p>
+
 
 ## Exemplos:
 * Unindo com mappedBy: relacionamento bidirecional mapeado entre duas classes
