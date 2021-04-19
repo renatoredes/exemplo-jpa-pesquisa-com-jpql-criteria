@@ -11,11 +11,11 @@
 
 ## Sobre o Projeto
 Projeto Java que visa a disponibilização de exemplos utilizando consultas JPQL e Criteria API.
-
+<!-- Modelagem de dados -->
+<br />
 <p align="center">
-     <img src="https://github.com/renatoredes/exemplo-jpa-pesquisa-com-jpql-criteria/blob/main/img/modelagem.png" alt="Logo">
- 
-  <h3 align="center">Modelagem de dadoss</h3>
+   <h3 align="center">Modelagem de dadoss</h3>
+     <img src="https://github.com/renatoredes/exemplo-jpa-pesquisa-com-jpql-criteria/blob/main/img/modelagem.png" alt="Logo"> 
 </p>
 
 ## Exemplos:
