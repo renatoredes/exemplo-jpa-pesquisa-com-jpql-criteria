@@ -24,7 +24,7 @@
 * CriteriaBuilder
 
 ## Sobre o Projeto
-Este projeto Java que visa a disponibilização de exemplos utilizando consultas JPQL e Criteria API.
+Projeto Java que visa a disponibilização de exemplos utilizando consultas JPQL e Criteria API.
 
 <!-- LICENSE -->
 
