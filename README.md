@@ -9,6 +9,9 @@
 </p>
 
 
+## Sobre o Projeto
+Projeto Java que visa a disponibilização de exemplos utilizando consultas JPQL e Criteria API.
+
 ## Exemplos:
 * Unindo com mappedBy: relacionamento bidirecional mapeado entre duas classes
 * Lazy e Eager Loading
@@ -22,9 +25,6 @@
 * Queries dinâmicas com Criteria
 * CriteriaQuery
 * CriteriaBuilder
-
-## Sobre o Projeto
-Projeto Java que visa a disponibilização de exemplos utilizando consultas JPQL e Criteria API.
 
 <!-- LICENSE -->
 
