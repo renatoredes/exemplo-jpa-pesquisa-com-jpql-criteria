@@ -12,6 +12,12 @@
 ## Sobre o Projeto
 Projeto Java que visa a disponibilização de exemplos utilizando consultas JPQL e Criteria API.
 
+<p align="center">
+     <img src="https://github.com/renatoredes/exemplo-jpa-pesquisa-com-jpql-criteria/blob/main/img/modelagem.png" alt="Logo">
+ 
+  <h3 align="center">Modelagem de dadoss</h3>
+</p>
+
 ## Exemplos:
 * Unindo com mappedBy: relacionamento bidirecional mapeado entre duas classes
 * Lazy e Eager Loading
