@@ -26,6 +26,14 @@ Projeto Java que visa a disponibilização de exemplos utilizando consultas JPQL
 * CriteriaQuery
 * CriteriaBuilder
 
+<!-- Modelagem de dados -->
+<br />
+<p align="center">
+   <h3 align="center">Modelagem de dadoss</h3>
+     <img src="https://github.com/renatoredes/exemplo-jpa-pesquisa-com-jpql-criteria/blob/main/img/modelagem.png" alt="Logo"> 
+</p>
+
+
 <!-- LICENSE -->
 
 ## Licença
@@ -37,10 +45,3 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 ## Contato
 
 Renato Ferreira - [Github](https://github.com/renatoredes) - **https://www.linkedin.com/in/renatoredes/**
-
-<!-- Modelagem de dados -->
-<br />
-<p align="center">
-   <h3 align="center">Modelagem de dadoss</h3>
-     <img src="https://github.com/renatoredes/exemplo-jpa-pesquisa-com-jpql-criteria/blob/main/img/modelagem.png" alt="Logo"> 
-</p>
