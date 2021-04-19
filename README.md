@@ -27,7 +27,6 @@ Projeto Java que visa a disponibilização de exemplos utilizando consultas JPQL
 * CriteriaBuilder
 
 <!-- Modelagem de dados -->
-<br />
 <p align="center">
    <h3 align="center">Modelagem de dadoss</h3>
      <img src="https://github.com/renatoredes/exemplo-jpa-pesquisa-com-jpql-criteria/blob/main/img/modelagem.png" alt="Logo"> 
