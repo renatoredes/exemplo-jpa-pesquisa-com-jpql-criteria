@@ -11,12 +11,6 @@
 
 ## Sobre o Projeto
 Projeto Java que visa a disponibilização de exemplos utilizando consultas JPQL e Criteria API.
-<!-- Modelagem de dados -->
-<br />
-<p align="center">
-   <h3 align="center">Modelagem de dadoss</h3>
-     <img src="https://github.com/renatoredes/exemplo-jpa-pesquisa-com-jpql-criteria/blob/main/img/modelagem.png" alt="Logo"> 
-</p>
 
 ## Exemplos:
 * Unindo com mappedBy: relacionamento bidirecional mapeado entre duas classes
@@ -44,3 +38,9 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
 Renato Ferreira - [Github](https://github.com/renatoredes) - **https://www.linkedin.com/in/renatoredes/**
 
+<!-- Modelagem de dados -->
+<br />
+<p align="center">
+   <h3 align="center">Modelagem de dadoss</h3>
+     <img src="https://github.com/renatoredes/exemplo-jpa-pesquisa-com-jpql-criteria/blob/main/img/modelagem.png" alt="Logo"> 
+</p>
